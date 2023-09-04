@@ -15,3 +15,4 @@ function myFunction(arr, target) {
 console.log(myFunction([2, 3, 5], 5));
 console.log(myFunction([2, 3, 5], 8));
 console.log(myFunction([2, 3, 5], 15));
+
